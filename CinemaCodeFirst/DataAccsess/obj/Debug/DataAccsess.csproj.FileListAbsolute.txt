@@ -1,0 +1,12 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\bin\Debug\DataAccsess.dll.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\bin\Debug\DataAccsess.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\bin\Debug\DataAccsess.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\obj\Debug\DataAccsess.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\obj\Debug\DataAccsess.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\obj\Debug\DataAccsess.csproj.CopyComplete
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\obj\Debug\DataAccsess.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\CinemaCodeFirst\DataAccsess\obj\Debug\DataAccsess.pdb

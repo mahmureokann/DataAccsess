@@ -1,0 +1,15 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\bin\Debug\WFA_AdoNet.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\bin\Debug\WFA_AdoNet.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\bin\Debug\WFA_AdoNet.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\bin\Debug\EntityFramework.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\bin\Debug\EntityFramework.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_AdoNet\obj\Debug\WFA_AdoNet.csproj.CopyComplete

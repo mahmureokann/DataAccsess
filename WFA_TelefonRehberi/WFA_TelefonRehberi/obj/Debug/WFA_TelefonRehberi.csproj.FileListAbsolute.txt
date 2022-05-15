@@ -1,0 +1,31 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CopyComplete
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.pdb

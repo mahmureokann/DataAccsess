@@ -1,0 +1,15 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\bin\Debug\WFA_EF_Performans.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\bin\Debug\WFA_EF_Performans.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\bin\Debug\WFA_EF_Performans.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\bin\Debug\EntityFramework.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\bin\Debug\EntityFramework.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\11.04\WFA_EF_Performans\WFA_EF_Performans\obj\Debug\WFA_EF_Performans.csproj.CopyComplete

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5955924-0ca0-4d03-8fb5-b3a99e9f5baf": {
+      "ProjectGuid": "e5955924-0ca0-4d03-8fb5-b3a99e9f5baf",
+      "DisplayName": "BLL",
+      "ColorIndex": 0
+    },
+    "7de373a1-38e4-4b59-84b2-982efcec9154": {
+      "ProjectGuid": "7de373a1-38e4-4b59-84b2-982efcec9154",
+      "DisplayName": "WinUI",
+      "ColorIndex": 1
+    },
+    "6fd0ab16-f9b5-42ab-9917-e706ef760412": {
+      "ProjectGuid": "6fd0ab16-f9b5-42ab-9917-e706ef760412",
+      "DisplayName": "DataAccsess",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

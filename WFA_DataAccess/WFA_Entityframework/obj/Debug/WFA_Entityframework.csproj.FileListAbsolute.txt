@@ -1,0 +1,15 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\bin\Debug\WFA_Entityframework.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\bin\Debug\WFA_Entityframework.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\bin\Debug\WFA_Entityframework.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\bin\Debug\EntityFramework.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\bin\Debug\EntityFramework.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\DataAccess\WFA_DataAccess\WFA_Entityframework\obj\Debug\WFA_Entityframework.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3af59382-8e0e-4f0e-b960-cb5aab8fe814": {
+      "ProjectGuid": "3af59382-8e0e-4f0e-b960-cb5aab8fe814",
+      "DisplayName": "WFA_AdoNet",
+      "ColorIndex": 0
+    },
+    "5af3f789-779e-4493-85de-f8c039b4e844": {
+      "ProjectGuid": "5af3f789-779e-4493-85de-f8c039b4e844",
+      "DisplayName": "WFA_EFExample",
+      "ColorIndex": 1
+    },
+    "af802057-c55a-45a3-b609-85247ae5a0da": {
+      "ProjectGuid": "af802057-c55a-45a3-b609-85247ae5a0da",
+      "DisplayName": "WFA_Entityframework",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

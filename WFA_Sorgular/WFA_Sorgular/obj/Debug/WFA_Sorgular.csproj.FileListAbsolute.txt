@@ -1,0 +1,16 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\bin\Debug\WFA_Sorgular.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\bin\Debug\WFA_Sorgular.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\bin\Debug\WFA_Sorgular.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.csproj.CopyComplete
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\DataAcsess\WFA_Sorgular\WFA_Sorgular\obj\Debug\WFA_Sorgular.pdb
